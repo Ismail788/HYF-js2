@@ -1,0 +1,14 @@
+body{
+  background: gray;
+}
+.header{ color: white;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+.container{
+  background: orange;
+  padding: 30px;
+
+}
